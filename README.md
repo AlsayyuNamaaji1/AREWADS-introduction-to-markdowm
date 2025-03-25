@@ -67,12 +67,11 @@ highlighting.
 
  ### _**6. Tables**_
 -Markdown tables are created using pipes `|` and hyphens `-`.
-``` markdown
+
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Data 1   | Data 2   | Data 3   |
 | Day 1    | Day 2    | Day 3    |
- ```
 
  ### _**7. Task Lists**_
  -Create checkboxes using `-[]` for unchecked, and `-[x]` for checed items.
